@@ -1,0 +1,16 @@
+   {
+    "DISCORD_TOKEN": "your bot token",
+    "servers": {
+        "SERVER_ID": {
+            "AUTHORIZED_USER_IDS": ["User_IDs_allowed_to_use_commands"],
+            "CLIENT_ROLE_ID": ROLE_ID_ASSIGNED_TO_NEW_MEMBERS,
+            "WELCOME_CHANNEL_ID": "Channel_ID_where_welcome_msg_is_sent",
+            "WELCOME_IMAGE_URL": "https://your-custom-welcome-gif.gif",
+            "RULES_CHANNEL_ID": "Channel_ID_to_redirect_for_rules",
+            "MAIN_CHAT_CHANNEL_ID": "Channel_ID_for_main_chat_mention",
+            "MEMBER_COUNT_CHANNEL_ID": "Channel_ID_to_show_member_count",
+            "MEMBER_ROLE_NAME": "Role_Name_assigned_to_members",
+            "EMBED_COLOR": EMBED_COLOR_INTEGER
+            }
+        }
+    }
