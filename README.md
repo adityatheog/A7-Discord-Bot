@@ -26,7 +26,7 @@ a7 is a powerful, server-specific Discord bot built in Python using `discord.py`
 
 1. **Clone the repository**
    ```arm
-   git clone https://github.com/adityatheog/A7.git
+   git clone https://github.com/adityatheog/A7-Discord-Bot.git
    ```
 2. **Install dependencies**
    ```arm
