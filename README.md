@@ -65,7 +65,7 @@ a7 is a powerful, server-specific Discord bot built in Python using `discord.py`
 > This bot is developed by:
 
 - 👤 **Name**: Aditya Sutar
-- 💬 **Discord Server**: [A7](https://discord.gg/A7)
+- 💬 **Discord Server**: [A7](https://discord.gg/4UwHFudGUZ)
 - 🛠️ **GitHub**: [github.com/adityatheog](https://github.com/adityatheog)
 - 🌐 **Portfolio**: [A7](https://)
 
